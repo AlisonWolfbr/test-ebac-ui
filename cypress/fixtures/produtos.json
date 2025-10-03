@@ -1,0 +1,23 @@
+[
+  {
+    "nomeProduto": "Stark Fundamental Hoodie",
+    "tamanho": "XS",
+    "cor": "Black",
+    "Quantidade": 3
+ 
+  },
+  {
+    "nomeProduto": "Aero Daily Fitness Tee",
+    "tamanho": "L",
+    "cor": "Black",
+    "Quantidade": 2
+ 
+  },
+  {
+    "nomeProduto": "Ajax Full-Zip Sweatshirt",
+    "tamanho": "M",
+    "cor": "Red",
+    "Quantidade": 1
+ 
+  }
+]
